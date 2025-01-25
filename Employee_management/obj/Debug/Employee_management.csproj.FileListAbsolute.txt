@@ -1,0 +1,70 @@
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\bin\Debug\Employee_management.exe.config
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\bin\Debug\Employee_management.exe
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\bin\Debug\Employee_management.pdb
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Properties.Resources.resources
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.exe
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.pdb
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Login.resources
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Register.resources
+C:\Users\Acer\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Dashboard.resources
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\bin\Debug\Employee_management.exe.config
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\bin\Debug\Employee_management.exe
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\bin\Debug\Employee_management.pdb
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Dashboard.resources
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Login.resources
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Register.resources
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.exe
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.pdb
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.ForgotPassword.resources
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.EmpDashboard.resources
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.ChangePassword.resources
+C:\Users\Acer\OneDrive\Desktop\windows form project-1\Employee_management\Employee_management\obj\Debug\Employee_management.Salary.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\bin\Debug\Employee_management.exe.config
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\bin\Debug\Employee_management.exe
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\bin\Debug\Employee_management.pdb
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.ChangePassword.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Dashboard.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.EmpDashboard.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.ForgotPassword.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Login.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Register.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Salary.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.exe
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.pdb
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\bin\Debug\Guna.UI2.dll
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Loading.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee.212DE979.Up2Date
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.EmployeeSalary.resources
+C:\Users\Acer\OneDrive\Desktop\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Invoice.resources
+C:\Employee management\Employee_management\Employee_management\bin\Debug\Employee_management.exe.config
+C:\Employee management\Employee_management\Employee_management\bin\Debug\Employee_management.exe
+C:\Employee management\Employee_management\Employee_management\bin\Debug\Employee_management.pdb
+C:\Employee management\Employee_management\Employee_management\bin\Debug\Guna.UI2.dll
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.AssemblyReference.cache
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.ChangePassword.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Dashboard.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.EmpDashboard.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.EmployeeSalary.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.ForgotPassword.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Invoice.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Loading.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Login.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Properties.Resources.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Register.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.Salary.resources
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.GenerateResource.cache
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.csproj.CoreCompileInputs.cache
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee.212DE979.Up2Date
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.exe
+C:\Employee management\Employee_management\Employee_management\obj\Debug\Employee_management.pdb
